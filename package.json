@@ -1,1 +1,1 @@
-
+{ "name": "pump-data-sync", "type": "module", "version": "1.0.0", "private": true, "scripts": { "pull": "node scripts/pull.js" } }
